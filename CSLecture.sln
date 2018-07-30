@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{6680130C-A9D3-423A-B9B6-9F41A73C5855}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{103C9BFA-15B9-49B1-B60A-778DB97F4DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6680130C-A9D3-423A-B9B6-9F41A73C5855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6680130C-A9D3-423A-B9B6-9F41A73C5855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6680130C-A9D3-423A-B9B6-9F41A73C5855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103C9BFA-15B9-49B1-B60A-778DB97F4DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103C9BFA-15B9-49B1-B60A-778DB97F4DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103C9BFA-15B9-49B1-B60A-778DB97F4DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103C9BFA-15B9-49B1-B60A-778DB97F4DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
