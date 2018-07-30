@@ -15,9 +15,6 @@ namespace HelloWorld
             char[] myCharList = { 'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd', '!' };
             Console.WriteLine(myCharList);
 
-            int myInt = 13;
-            Console.WriteLine(myInt);
-
             int[] myIntList = { 72, 101, 108, 108, 111, 32, 87, 111, 114, 101, 100, 33 };
             for (int i = 0; i < myIntList.Length - 1; ++i)
             {
